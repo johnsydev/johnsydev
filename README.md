@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *@randomlanddev*
+- 👋 Hi, I’m *@johnsydev*
 - 👀 I’m interested in *programming*
 - 🌱 I am currently learning how to create apps, web pages and bots for different apps
 - 💞️ I’m looking to collaborate on bots in NodeJS
