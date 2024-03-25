@@ -1,8 +1,8 @@
 - 👋 Hi, I’m *@johnsydev*
-- 👀 I’m interested in *programming*
-- 🌱 I am currently a student at the Tecnológico de Costa Rica 
-- 🇨🇷 From Costa Rica
-- 📫 *Contact:* johnsylopez02@gmail.com or [contact me via Telegram](t.me/johnsydev)
+- 👀 I’m interested in *programming*.
+- 🌱 I am currently a Computer Engineering student at the Tecnológico de Costa Rica.
+- 🇨🇷 From Costa Rica.
+- 📫 *Contact:* johnsylopez02@gmail.com or [contact me via Telegram](https://t.me/johnsydev)
 
 
 
